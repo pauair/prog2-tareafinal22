@@ -1,0 +1,4 @@
+5f2ecd64b288826f13d3b5d0ef27c66c54c4c879  src/listaProductos.cpp
+b64f960d9ba55debc516644a970c15ae3858d5b4  src/colProductosPorNombre.cpp
+8456570683827a88c4de95e15aaa1fba8ff5394a  src/deposito.cpp
+17862819ad5f3c4112814ab82ae380a4f35f4c6c  src/gestionDeposito.cpp
